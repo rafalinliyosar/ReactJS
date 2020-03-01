@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn ReactJS by changing this component
+          Rafalin Learn ReactJS by changing this component
         </a>
       </header>
     </div>
